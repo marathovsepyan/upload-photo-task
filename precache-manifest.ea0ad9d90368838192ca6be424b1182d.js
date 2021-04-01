@@ -21,7 +21,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5396e8056e729e189ba6",
-    "url": "/js/chunk-284189c8.a5c9069b.js"
+    "url": "/upload-photo-task/js/chunk-284189c8.a5c9069b.js"
   },
   {
     "revision": "3baa9dc4a087fabe39a8",
