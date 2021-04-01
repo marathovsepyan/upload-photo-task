@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "upload-photo-task/precache-manifest.fd692386b85fcc61514ad891da44e00b.js"
+  "/upload-photo-task/precache-manifest.a27c2251b88404d852a65de969ba5ac6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "upload-photo-task"});
